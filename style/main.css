@@ -1,0 +1,17 @@
+body {
+    background-color: #333;
+}
+
+h1, li {
+    color: rgb(200, 200, 0);
+    font-family: sans-serif;
+}
+
+img {
+    width: 50%;
+}
+
+body {
+    margin: auto;
+    max-width: 800px;
+}
