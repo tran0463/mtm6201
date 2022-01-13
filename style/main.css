@@ -2,7 +2,7 @@ body {
     background-color: #333;
 }
 
-h1, dt,dd {
+h1, dt, dd {
     color: rgb(200, 200, 0);
     font-family: sans-serif;
 }
